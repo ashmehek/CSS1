@@ -1,0 +1,36 @@
+/************************Tag Selectors*****************/
+
+body{
+  background-color: lightblue;
+}
+h1{
+  color: red;
+  font-size: 20px;
+}
+
+img:hover{
+  background-color: gold;
+  height: 100px;
+  width: 10%;
+}
+
+/********************Class Selectors*******************/
+
+.biryani {
+  background-color: green;
+  height: 100px;
+  width: 10%;
+}
+.cucumber {
+  background-color: red;
+  height: 100px;
+  width: 10%;
+}
+.shape{
+  border-radius: 100%;
+}
+
+/*********************id Selectors***********************/
+#heading {
+  color: blue;
+}
